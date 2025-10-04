@@ -1,0 +1,29 @@
+# Folders created by Visual Studio
+.vs/
+bin/
+*.sdf
+*.suo
+*.user
+*.pdb
+*.exp
+*.ilk
+*.aps
+*.ncb
+*.tlog
+*.idb
+
+# Intermediate/Generated folders and files
+Debug/
+Release/
+ipch/
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+
+# C++ build files
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.dep
